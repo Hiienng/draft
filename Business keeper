@@ -1,17 +1,18 @@
 # COLLECTION
 
 Work flow
- -- Early collection
- -- Late collection
-    Call collection B1-B3
-    Field collection > B3
+ Early collection  >  Late collection  >  Call collection B1-B3  >  Field collection > B3
+ 
 Important indicators
  -- Funnel: allocation rate -> case resolved
  -- Indicators: Resolve rate, roleback rate, stablize rate
  -- B1 new, B1 BOM
  -- Indicators: %dial/lead, %spin call, %resolve rate, %Visit/case, %meet/case
+
 Regulation
- -- about the net off payment rule before due and after due
+ -- about the net off payment rule 
+ .Before due:  
+ .After due: 
 
 System: Pega, Pega los 3, Nexon, Sas
 
